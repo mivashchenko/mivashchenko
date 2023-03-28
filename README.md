@@ -11,7 +11,7 @@ I'm a Senior Frontend developer with 6 years of experience delivering high quali
 * 🚀  I'm currently working on [Demandbase Company](http://demandbase.com)
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  I'm a big fun of clean code and refactoring
-* 👇  My other git profiles: 
+* 👇  My other jobs profiles: 
      - https://github.com/cyber-kibadist
      - https://gitlab.com/mivashchenko1
      - https://github.com/kibadist

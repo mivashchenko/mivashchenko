@@ -10,7 +10,7 @@ I'm a Senior Frontend developer with 6 years of experience delivering high quali
 * ✉️  You can contact me at [mivashchenko.work@gmail.com](mailto:mivashchenko.work@gmail.com)
 * 🚀  I'm currently working on [Demandbase Company](http://demandbase.com)
 * 🤝  I'm open to collaborating on interesting projects
-* ⚡  I'm a big fun of clean code and refactoring
+* ⚡  I'm a big fun of clean code and easy-to-maintain code
 * 👇  My previous jobs profiles: 
      - https://github.com/cyber-kibadist
      - https://gitlab.com/mivashchenko1

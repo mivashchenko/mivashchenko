@@ -6,7 +6,7 @@ Senior Frontend Developer
 
 I'm a Senior Frontend developer with 6 years of experience delivering high quality, performant web applications to production environments as part of a global team. Excited to build software that makes users enjoy and trust your product. Comfortable taking on ambiguous problems and creating elegant technical solutions.
 
-* 🌍  I'm based in Spring City, PA, USA
+* 🌍  I'm based in Orlando, FL, USA
 * ✉️  You can contact me at [mivashchenko.work@gmail.com](mailto:mivashchenko.work@gmail.com)
 * 🚀  I'm currently working on [Demandbase Company](http://demandbase.com)
 * 🤝  I'm open to collaborating on interesting projects

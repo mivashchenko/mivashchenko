@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Senior Frontend Developer
 -------------------------
 
-I'm a Senior Frontend developer with 6 years of experience delivering high quality, performant web applications to production environments as part of a global team. Excited to build software that makes users enjoy and trust your product. Comfortable taking on ambiguous problems and creating elegant technical solutions.
+I'm a Senior Frontend developer with 7 years of experience delivering high quality, performant web applications to production environments as part of a global team. Excited to build software that makes users enjoy and trust your product. Comfortable taking on ambiguous problems and creating elegant technical solutions.
 
 * 🌍  I'm based in Orlando, FL, USA
 * ✉️  You can contact me at [mivashchenko.work@gmail.com](mailto:mivashchenko.work@gmail.com)

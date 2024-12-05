@@ -4,17 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Senior Frontend Developer
 -------------------------
 
-I'm a Senior Frontend developer with 7 years of experience delivering high quality, performant web applications to production environments as part of a global team. Excited to build software that makes users enjoy and trust your product. Comfortable taking on ambiguous problems and creating elegant technical solutions.
+As a Senior Frontend Developer with over eight years of experience, I have a strong background in creating high-performance, user-friendly web applications for well-known companies such as HPE, Citibank, and Demandbase. My expertise lies in streamlining processes and enhancing system performance, exemplified by my ability to reduce delivery timelines by an average of three days per project and minimize frontend issues by 60%. I also boosted code review efficiency by 30% through bi-weekly workshops, fostering better collaboration within teams.
 
-* 🌍  I'm based in Orlando, FL, USA
-* ✉️  You can contact me at [mivashchenko.work@gmail.com](mailto:mivashchenko.work@gmail.com)
-* 🚀  I'm currently working on [Demandbase Company](http://demandbase.com)
-* 🤝  I'm open to collaborating on interesting projects
-* ⚡  I'm a big fun of clean code and easy-to-maintain code
-* 👇  My previous jobs profiles: 
-     - https://github.com/cyber-kibadist
-     - https://gitlab.com/mivashchenko1
-     - https://github.com/kibadist
+In my previous roles, I successfully launched a live chat module, cutting patient response times by 50%, and implemented an advanced state management system, increasing development efficiency by 20%. I also led a migration from AngularJS to Angular, reducing maintenance overhead by 25%, and engineered an interactive email template generator that produced over 500 templates weekly.
+
+I am always eager to expand my network and explore new opportunities for professional growth. Feel free to connect with me via LinkedIn or contact me directly at mivashchenko.work@gmail.com.
 
 ### Skills
 
